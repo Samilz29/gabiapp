@@ -1,0 +1,5 @@
+.DS_Store
+Gabi.app/
+*.dmg
+.tmp_*
+assets/raw/
